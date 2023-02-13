@@ -44,23 +44,32 @@ Para la emisión de Factura se nos muestran los datos de la compra, el consumido
 
 [![emicomp4.jpg](https://i.postimg.cc/5th92H2V/emicomp4.jpg)](https://postimg.cc/v1vwPZnq)
 Para la emisión de una Boleta se nos muestra únicamente datos del comprador y el precio total, junto con las opciones de agregar otro producto o cancelar el procedimiento.
+
 [![emicomp5.jpg](https://i.postimg.cc/BbgJpMcS/emicomp5.jpg)](https://postimg.cc/q6NfMc5S)
 En caso deseemos agregar un producto se nos solicitará el nombre o código para su selección.
+
 [![emicomp6.jpg](https://i.postimg.cc/XNcNnYMR/emicomp6.jpg)](https://postimg.cc/Wtzcnj18)
 Seleccionamos las cantidades y agregamos a la lista.
+
 [![emicomp7.jpg](https://i.postimg.cc/1tDmn98N/emicomp7.jpg)](https://postimg.cc/mz2fKWNb)
 Se nos muestra nuevamente la lista final en caso tengamos que modificar o eliminar algún producto.
+
 [![emicomp8.jpg](https://i.postimg.cc/vTMQ5pn2/emicomp8.jpg)](https://postimg.cc/xJxD2ptL)
 Se nos pide confirmar la operación.
+
 [![emicomp9.jpg](https://i.postimg.cc/3J88NQYd/emicomp9.jpg)](https://postimg.cc/rzHXZbdk)
+
 Se muestra un mensaje de éxito al registrar el comprobante de pago.
+
 #### 2.3.2 Emitir Reporte de Ventas
 [![emirepor1.jpg](https://i.postimg.cc/4yJgYpCr/emirepor1.jpg)](https://postimg.cc/47FMM7x5)
 La emisión de Reportes de ventas nos muestra los detalles de las boletas y las facturas emitidas en el mismo día, mostrando lo que es el código, hora, fecha estado y monto de cada comprobante de pago. Permitiendo imprimir o retroceder al inicio del usuario Cajero.
+
 [![emirepor2.jpg](https://i.postimg.cc/QC63SfH9/emirepor2.jpg)](https://postimg.cc/RJnyZQ14)
 Se muestra una pantalla con el reporte de ventas, tanto boletas como facturas realizadas durante el día seleccionado.
 ### 2.4 Funcionalidades Despachador
 [![funcdesp.jpg](https://i.postimg.cc/mkZ4Qv2W/funcdesp.jpg)](https://postimg.cc/xJZBQFz6)
+
 El despachador puede hacer uso de las funciones Despachar producto, Gestionar Inventario, Cambiar contraseña y Registrar incidencia.
 #### 2.4.1 Despachar Producto
 [![despprod1.jpg](https://i.postimg.cc/50S1Q4Jm/despprod1.jpg)](https://postimg.cc/xJ8BWSck)
@@ -70,6 +79,7 @@ Al hacer clic en seleccionar en la columna de acción, se mostrará la informaci
 [![despprod3.png](https://i.postimg.cc/MGRzx0rN/despprod3.png)](https://postimg.cc/mcbvy94y)
 Al dar clic a Despachado nos preguntará si estamos seguros.
 [![despprod4.jpg](https://i.postimg.cc/CxRFrpCF/despprod4.jpg)](https://postimg.cc/QFrGVPnP)
+
 Al dar en aceptar, se mostrará un mensaje de que ha sido modificado con éxito.
 #### 2.4.2 Gestionar Inventario
 [![gestinv1.jpg](https://i.postimg.cc/XYtnT1x9/gestinv1.jpg)](https://postimg.cc/K1rXTN6Y)
@@ -81,6 +91,7 @@ Al hacer clic en agregar producto, se podrá agregar un nuevo producto con su c�
 [![gestinv4.jpg](https://i.postimg.cc/CM4LzNLV/gestinv4.jpg)](https://postimg.cc/7bfyRS2B)
 Damos clic en agregar y nos preguntará si estamos seguros de agregar el producto.
 [![gestinv5.jpg](https://i.postimg.cc/wM9qwt2P/gestinv5.jpg)](https://postimg.cc/5YkW02Zq)
+
 Al dar clic en confirmar, nos mostrará un mensaje diciendo que agregó el producto.
 [![modifpro1.jpg](https://i.postimg.cc/wMF6Z6bB/modifpro1.jpg)](https://postimg.cc/642JGNKs)
 Al hacer clic en modificar producto, nos mostrará las partes que podemos editar como el nombre, stock, Precio, categoría, Marca, Descripción, Observación y Estado.
@@ -103,6 +114,8 @@ Muestra la lista de usuarios con su respectivo rol, estado, etc.
 [![gestusu2.jpg](https://i.postimg.cc/Yqb9yxJx/gestusu2.jpg)](https://postimg.cc/qz64N2Bt)
 Se puede filtrar la lista por el estado del usuario para facilitar la búsqueda de estos.
 [![gestusu3.jpg](https://i.postimg.cc/htvjFdnR/gestusu3.jpg)](https://postimg.cc/4YCZVnnW)
+
 Se registrará al usuario con el nombre, apellido paterno, apellido materno, username, estado, email, DNI, celular, palabra secreta, contraseña y rol.
 [![gestusu4.jpg](https://i.postimg.cc/hv0jn8hc/gestusu4.jpg)](https://postimg.cc/dZLvmy8x)
+
 Se puede realizar el registro de un nuevo usuario incluyendo los datos necesarios para que este acceda al sistema.
